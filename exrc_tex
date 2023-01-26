@@ -69,7 +69,7 @@ let g:tex_indent_brace=0
 \\begin{document}
 \\end{document}
 
-:iab bletter 
+:iab bletter
 \\documentclass[11pt,a4paper]{article}
 \\usepackage[pdftex]{xcolor}
 \\usepackage[pdftex]{graphicx}
